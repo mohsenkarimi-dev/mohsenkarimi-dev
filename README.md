@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mohsen! 👋
+
+💻 I'm a Computer Engineering student passionate about programming and technology.
+
+🔐 Currently learning **Cybersecurity** and exploring the world of ethical hacking.
+
+⚡ Proficient in **C++** and interested in software development, problem-solving, and computer security.
+
+🚀 Always learning, building, and improving my skills.
+
 
 <!--
 **mohsenkarimi-dev/mohsenkarimi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
