@@ -8,6 +8,10 @@
 
 🚀 Always learning, building, and improving my skills.
 
+#💻Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,linux,bash,vim,vscode)](https://skillicons.dev)
+
 
 <!--
 **mohsenkarimi-dev/mohsenkarimi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
