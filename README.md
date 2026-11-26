@@ -8,7 +8,7 @@
 
 🚀 Always learning, building, and improving my skills.
 
-#💻Tech Stack
+## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,git,linux,bash,vim,vscode)](https://skillicons.dev)
 
